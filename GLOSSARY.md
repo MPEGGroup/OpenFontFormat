@@ -6,7 +6,7 @@
 * **AHG** ad-hoc group, a group of people representing multiple stakeholders, who meet informally to discuss technical proposals (example: the AHG who got together in 2015–2016 and made OpenType Variations happen), perhaps bypassing corporate policies on formal meetings.
 * **CG** Community Group, in a font technology context probably the W3C Font and Text Community Group established 2020.
 * **FEA** OpenType Feature File (extension .fea), [afdko: OpenType™ Feature File Specification](http://adobe-type-tools.github.io/afdko/OpenTypeFeatureFileSpecification.html).
-* **FEE** ???
+* **FEE** Font Engineering language with Extensibility, a language for creating font feature code that can be compiled to FEA using [fontFeatures](https://github.com/simoncozens/fontFeatures/blob/master/docs/fee-format.rst).
 * **FTCG** the W3C Font and Text Community Group.
 * **IEC** International Electrotechnical Commission: alongside ISO, jointly responsible for the OFF specification.
 * **ISO** International Organization for Standardization, ultimately responsible for the OFF specification via the MPEG Working Group.
