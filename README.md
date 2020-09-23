@@ -8,7 +8,7 @@ When filing an issue, please use one of the tags (related to table names, featur
 
 If you have an idea for how the MPEG Open Font Format (MOFF) specification (spec) can be improved, file an issue on this repo!
 There may be related discussions on the [mpeg-otspec](https://lists.aau.at/mailman/listinfo/mpeg-otspec) mailing list, which has a [public archive](https://lists.aau.at/pipermail/mpeg-otspec/) you can search.
-(Sadly file attachments are not available in the archive, but you can request copies be reposted by older members, or search the MPEG filestore and ISO FileFlex document repositories.)
+(Sadly file attachments are not available in the archive, but you can request copies be reposted by older members, or join MPEG (see below) and then search the MPEG document registry and ISO Livelink document repositories, as access to those document archives is password protected and available only to active members of SC29.)
 
 Issues on Github are easy to track and discuss, with "unread messages" notifications in the web ui for logged in users, tags and milestones for grouping and prioritizing, inline formatting with markdown, images and file attachments with drag and drop, message editing for yourself, and moderation tools to keep discussions within the bound of the code of conduct. 
 
