@@ -1,6 +1,6 @@
 # OpenFontFormat
 
-This repo is used to discuss issues related to ISO/IEC 14496-22 "Open Font Format" (OFF) specification. Participants of the activities and discussions in this repo must follow and adhere to [ISO Code of Conduct](https://www.iso.org/files/live/sites/isoorg/files/store/en/PUB100397.pdf)
+This repo is used to discuss issues related to ISO/IEC 14496-22 "Open Font Format" (OFF) specification. Participants of the activities and discussions in this repo must follow and adhere to [ISO Code of Conduct](https://www.iso.org/files/live/sites/isoorg/files/store/en/PUB100397.pdf). Participation in the ISO activities is subject to ISO's copyright and data protection policy, which is detailed by the following [Declaration for Participants in ISO Activities](https://www.iso.org/declaration-for-participants-in-iso-activities.html)
 
 The most recent edition of the OFF and the latest amendment are publicly available documents that can be downloaded using the following links:
 - [ISO/IEC 14496-22 "Open Font Format" (4th edition)](https://standards.iso.org/ittf/PubliclyAvailableStandards/c074461_ISO_IEC_14496-22_2019.zip)
