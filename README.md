@@ -18,7 +18,7 @@ This could be a Markdown or HTML file contributed via Pull Request to this repo,
 
 Whichever way it happens, once they are ready, all change proposals must be emailed to the mpeg-otspec list for official submission.
 There may be further discussion of the proposed text changes on that list, as the chair of the Ad Hoc Group will officially call for comments on that list within a specified time period.
-If no objections are raised, the proposal will be deemed to pass consensus, and upgraded in status to a Input Document (ID) and formally submitted to the MOFF Working Group (WG).
+If no objections are raised, the proposal will be deemed to pass consensus, and upgraded in status to a Input Contribution (IC), which if a document must be in `.docx` format, and formally submitted to the MOFF Working Group (WG).
 
-The WG will then merge the IDs into a Draft Revision (DR) of the spec, and this will be voted on by the Working Group's parent, SubCommittee 29 (SC29).
+The WG will then merge the ICs into a Draft Revision (DR) of the spec, and this will be voted on by the Working Group's parent, SubCommittee 29 (SC29).
 The voting is done by national standards bodies, and you can join your country of residence's standards body through your employer, your own company, or as an individual, depending on your country's rules. 
