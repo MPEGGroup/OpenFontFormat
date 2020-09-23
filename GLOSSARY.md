@@ -10,7 +10,7 @@
 * **FTCG** the W3C Font and Text Community Group.
 * **IEC** International Electrotechnical Commission: alongside ISO, jointly responsible for the OFF specification.
 * **ISO** International Organization for Standardization, ultimately responsible for the OFF specification via the MPEG Working Group.
-* **MOFF** “Microsoft Open Font Format”, meaning the same as Open Font Format but emphasizes that the specification is currently controlled by Microsoft.
+* **MOFF** “MPEG Open Font Format”, meaning the same as “OFF” but emphasizes that the specification is currently controlled by the ISO’s MPEG Working Group.
 * **MPEG** Motion Picture Experts Group is a Working Group established by ISO and IEC to standards for “Coding of audio, picture, multimedia and hypermedia information” including fonts.
 * **MSOT** “Microsoft OpenType”, meaning the same as OpenType but emphasizes that the specification is currently controlled by Microsoft.
 * **OFF** Open Font Format, a mirror of the current OpenType specification, unencumbered by the “OpenType” trademark.
