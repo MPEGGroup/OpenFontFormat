@@ -22,10 +22,17 @@ The next step is a proposal for a change.
 This could be a Markdown or HTML file contributed via Pull Request to this repo, or could be a file you develop in any format outside this repo. 
 
 Whichever way it happens, once they are ready, all change proposals should be emailed to the mpeg-otspec list for review by Ad Hoc Group (AHG) members.
-The goal of such 'AHG review' of prospective proposals is to refine them via open comments, and reach a consensus on the proposed changes, resulting in the official submission of the proposal along with the AHG recommendation supporting the changes.
+The goal of such 'AHG review' of prospective proposals is to refine them via open comments, and reach a consensus on the proposed changes, resulting in the official submission of the proposal to the Working Group (WG), along with the AHG Report that recommends the WG support the changes.
+
 There may be further discussions of the proposed text changes on that list, as the chair of the Ad Hoc Group will officially call for consensus on that list within a specified time period.
-If no objections are raised, the proposal(s) will be deemed to gain consensus approval, and submitted to the MPEG Systems Working Group (SC29/WG3) as AHG Input Contribution (IC), along with the AHG report summarizing AHG activities and recommendations.
-IC documents must be in `.docx` format, and will be formally submitted to the Working Group (WG).
+If you have any objections, you must email them to that list; and once your objections are resolved, you must send an email to that list saying you retract your objections and now approve of the proposal. 
+Comments made elsewhere on the internet (even in this repo) will not be officially counted as objections or approvals, no matter how strongly they are worded.
+
+There may also be further discussions elsewhere, such as this repo, another Github repo, or in any other forum.
+For anything notable, please do reference the discussion in your issue here, either by simply including an incoming link to it in any other Github issue, or posting an outgoing link.
+
+If no objections were raised, or if all objections were retraced, then the AHG Chair will deem the proposal to gain consensus approval, and submit it to the MPEG Systems Working Group (SC29/WG3) as AHG Input Contribution (IC), along with the AHG report that summarizes recent AHG activities and recommendations.
+IC documents must be in `.docx` format for their formal submission to the WG.
 
 (While 'AHG review' is highly preferred, it is not mandatory, and proposals can be submitted directly to the WG by active members of SC29.)
 
