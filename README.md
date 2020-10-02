@@ -13,7 +13,7 @@ When filing an issue, please use one of the tags (related to table names, featur
 #### Process Requirements
 
 If you have an idea for how the Open Font Format (OFF) specification (spec) can be improved, file an issue on this repo!
-There may be related discussions on the [mpeg-otspec](https://lists.aau.at/mailman/listinfo/mpeg-otspec) mailing list, which has a [public archive](https://lists.aau.at/pipermail/mpeg-otspec/) you can search.
+There may be related discussions on the [mpeg-otspec](https://lists.aau.at/mailman/listinfo/mpeg-otspec) mailing list, which has a [public archive](https://lists.aau.at/pipermail/mpeg-otspec/) you can search. (Sadly, file attachments are not available in the mpeg-otspec mail archive, but all formal input and output documents can be found in the MPEG document registry and on ISO Livelink document repositories, which are only available to active members of SC29.)
 
 Issues on Github are easy to track and discuss, with 
 "unread messages" notifications in the web ui for logged in users, 
@@ -48,4 +48,4 @@ Amendments and new editions of the OFF standard will also be subject for comment
 Additional changes can be introduced via CD and DIS ballot comments, the FDIS approval ballot only allows yes/no votes.
 
 The voting is done by national standards bodies, and you can join your country of residence's standards body through your employer, your own company, or (if your NB allows) as an individual, depending on your country's rules. 
-(Sadly file attachments are not available in the mpeg-otspec mail archive, but all formal input and output documents can be found in the MPEG document registry and on ISO Livelink document repositories, which are only available to active members of SC29.)
+
