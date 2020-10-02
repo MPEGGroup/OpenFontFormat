@@ -31,7 +31,7 @@ Comments made elsewhere on the internet (even in this repo) will not be official
 There may also be further discussions elsewhere, such as this repo, another Github repo, or in any other forum.
 For anything notable, please do reference the discussion in your issue here, either by simply including an incoming link to it in any other Github issue, or posting an outgoing link.
 
-If no objections were raised, or if all objections were retraced, then the AHG Chair will deem the proposal to gain consensus approval, and submit it to the MPEG Systems Working Group (SC29/WG3) as AHG Input Contribution (IC), along with the AHG report that summarizes recent AHG activities and recommendations.
+If no objections were raised, or if all objections were retracted, then the AHG Chair will deem the proposal to gain consensus approval, and submit it to the MPEG Systems Working Group (SC29/WG3) as AHG Input Contribution (IC), along with the AHG report that summarizes recent AHG activities and recommendations.
 IC documents must be in `.docx` format for their formal submission to the WG.
 
 (While 'AHG review' is highly preferred, it is not mandatory, and proposals can be submitted directly to the WG by active members of SC29.)
