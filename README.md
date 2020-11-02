@@ -28,7 +28,7 @@ The next step is a proposal for a change.
 This could be a Markdown or HTML file contributed via Pull Request to this repo, or could be a file you develop in any format outside this repo. 
 
 Whichever way it happens, once they are ready, all change proposals should be emailed to the mpeg-otspec list for review by Ad Hoc Group (AHG) members.
-The goal of such 'AHG review' of prospective proposals is to refine them via open comments, and reach a consensus on the proposed changes, resulting in the official submission of the proposal to the Working Group (WG), along with the AHG Report that recommends the WG support the changes.
+The goal of such 'AHG review' of prospective proposals is to refine them via open comments, and reach a consensus on the proposed changes, resulting in the official submission of the proposal to the Working Group (WG), along with the AHG Report that recommends the WG support the changes. Please note that the use of the GitHub is now autorized as part of the AHG mandates for technical issues only, any procedural discussions (if they are within the scope of established mandates) should be conducted on the AHG email list.
 
 There may be further discussions of the proposed text changes on that list, as the chair of the Ad Hoc Group will officially call for consensus on that list within a specified time period.
 If you have any objections, you must email them to that list; and once your objections are resolved, you must send an email to that list saying you retract your objections and now approve of the proposal. 
